@@ -1,0 +1,26 @@
+@media screen and (max-width:992px){
+    .left-hero{
+    width:100%;
+}
+.right-hero{
+    width: 100%;
+}
+
+.nav-links{
+   display: none;
+}
+.nav-btn{
+    display: none;
+}
+.bars{
+    display: block;
+}
+.articles-left,
+.articles-right{
+      width: 100%;
+}
+.l-side {
+    width: 50%;
+}
+
+}
